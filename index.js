@@ -1,15 +1,7 @@
-// myMasterPortalFolder/addons/VueAddon/index.js
-
-import VueAddonComponent from "./components/VueAddon.vue";
-import VueAddonStore from "./store/VueAddon";
-import deLocale from "./locales/de/additional.json";
-import enLocale from "./locales/en/additional.json";
+import HelloWorldComponent from "./components/HelloWorld.vue";
+import HelloWorldStore from "./store/indexHelloWorld";
 
 export default {
-    component: VueAddonComponent,
-    store: VueAddonStore,
-    locales: {
-        de: deLocale,
-        en: enLocale
-    }
+    component: HelloWorldComponent,
+    store: HelloWorldStore,
 };
