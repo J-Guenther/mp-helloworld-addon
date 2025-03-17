@@ -1,0 +1,8 @@
+{
+  "name": "VueAddon",
+  "version": "1.0.0",
+  "description": "I'm an example! I can say hello world.",
+  "dependencies": {
+    "hello": "^0.3.2"
+  }
+}
