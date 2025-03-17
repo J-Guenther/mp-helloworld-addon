@@ -1,4 +1,4 @@
-import {generateSimpleMutations} from "../../../shared/js/utils/generators";
+import {generateSimpleMutations} from "../../../src/shared/js/utils/generators";
 import stateHelloWorld from "./stateHelloWorld";
 
 const mutations = {
