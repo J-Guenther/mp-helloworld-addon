@@ -15,6 +15,6 @@ export default {
 
 <template lang="html">
 
-        Hello World
+  Hello World
 
 </template>
